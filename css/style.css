@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+}
+.navbar{
+    background-color: #cccc;
+}
+
+body{
+    font-family: sans-serif;
+    color: white;
+}
+
+.quem-somos{
+    background-color: black;
+    
+   
+}
+
+
+.margin{
+   padding-top: 100px;
+   padding-bottom: 50px;
+}
+
+.cearamor{
+    background-color: #cccc;
+}
+
+.cearamor h3{
+    color: black;
+    font-family: Verdana;
+    font-size-adjust: 100px;
+    
+}
+
+
+.bg-footer{
+    background-color:black;
+    color: white;
+}
+
+
